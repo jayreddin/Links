@@ -1,1 +1,1 @@
-(View Links Here:)[https://jayreddin.github.io/Links/]
+[View Links Here:](https://jayreddin.github.io/Links/)
